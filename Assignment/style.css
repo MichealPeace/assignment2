@@ -1,0 +1,21 @@
+.mean{
+    display: flex;
+    justify-content:s;
+
+}
+h1{
+    text-align: center;
+}
+input{
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+}
+label{
+    font-size: 20px;
+}
+.Submit{
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+}
